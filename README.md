@@ -2,7 +2,7 @@
 <p align="center">
 
 <h3 align="center">안녕하세요</h3>
-<p align="center">컴퓨터공학과 4년재 졸업한 alivemarin입니다.</p>
+<p align="center">컴퓨터공학과 4년제 졸업한 alivemarin입니다.</p>
 <p align="center">보안제품개발을 꿈꾸며 꾸준히 성장하고 있는 IT준비생입니다.😭😭💣🤯</p>
 
 ---
