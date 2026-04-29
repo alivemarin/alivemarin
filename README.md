@@ -3,7 +3,7 @@
 
 <h3 align="center">안녕하세요</h3>
 <p align="center">보안제품개발을 꿈꾸며 꾸준히 성장하고 있는 IT준비생입니다.</p>
-
+<p align="center">여러 분야의 정보보호 개념들과 GNN과 Transformer를 바탕으로 AI를 활용해 만들어가고 싶습니다.</p>
 ---
 
 
